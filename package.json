@@ -1,0 +1,13 @@
+{
+  "name": "bloghub-pro",
+  "version": "1.0.0",
+  "description": "Премиум платформа для блогеров",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 3000"
+  },
+  "keywords": ["blog", "social", "creators"],
+  "author": "BlogHub Team",
+  "license": "MIT"
+}
